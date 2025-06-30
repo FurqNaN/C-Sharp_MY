@@ -46,7 +46,7 @@ namespace _01_C__Temel_Konular
 
             //CustomerName = "Polat";
             //CustomerSurname = "Alemdar";
-            //CustomerPhone = "+90 521 652 25 12";
+            //CustomerPhone = "+90 555 555 55 55";
             //CustomerEmail = "PolatAlemdar@gimail.com";
             //City = "Istanbul";
 
@@ -61,7 +61,7 @@ namespace _01_C__Temel_Konular
 
             //CustomerName1 = "Elif";
             //CustomerSurname1 = "Alemdar";
-            //CustomerPhone1 = "+90 541 652 32 21";
+            //CustomerPhone1 = "+90 666 666 66 66";
             //CustomerEmail1 = "ElifAlemdar@gimail.com";
             //City1 = "Istanbul";
 
